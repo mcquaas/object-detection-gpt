@@ -30,7 +30,10 @@ pip install -r requirements.txt
 │   ├── yolov3.weights    # YOLOv3 pre-trained weights file
 │   ├── yolov3.cfg        # YOLOv3 configuration file
 │   ├── coco.names        # File containing class names
+├── demo/
+│   ├── demo.png    
 ├── yolo_object_detection_with_gradio.py  # Main script
+├── requirements.txt  
 ├── README.md             # Project documentation
 
 ```
