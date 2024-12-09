@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ## Acknowledgments
 
-- [YOLOv3](https://pjreddie.com/darknet/yolo/) - You Only Look Once, for real-time object detection.
+- [YOLOv3](https://arxiv.org/pdf/1804.02767) - You Only Look Once, for real-time object detection.
 - [Gradio](https://gradio.app/) - For creating a simple web interface for ML applications.
 
 ## License
