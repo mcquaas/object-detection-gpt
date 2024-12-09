@@ -3,7 +3,9 @@
 This project demonstrates how to use the YOLOv3 model for object detection, integrated with a Gradio interface for real-time webcam input. The application detects objects in video frames and displays them with bounding boxes and labels.
 
 ## Features
-
+  ![Gradio Interface Example](demo/demo_1.png)
+  ![YOLOv3 Detection Example](demo/demo_2.png)
+  
 - **YOLOv3 Integration**: Uses the YOLOv3 model for accurate object detection.
 - **Gradio Interface**: Provides an easy-to-use web interface to display detection results.
 - **Real-Time Webcam Support**: Processes video input from a webcam and displays detection results live.
@@ -31,7 +33,8 @@ pip install -r requirements.txt
 │   ├── yolov3.cfg        # YOLOv3 configuration file
 │   ├── coco.names        # File containing class names
 ├── demo/
-│   ├── demo.png    
+│   ├── demo_1.png
+│   ├── demo_2.png    
 ├── yolo_object_detection_with_gradio.py  # Main script
 ├── requirements.txt  
 ├── README.md             # Project documentation
