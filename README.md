@@ -5,6 +5,7 @@ This project demonstrates how to use the YOLOv3 model for object detection, inte
 ## Features
   ![Gradio Interface Example](demo/demo_1.png)
   ![YOLOv3 Detection Example](demo/demo_2.png)
+  ![GPT Interface Example](demo/demo_3.png)
   
 - **YOLOv3 Integration**: Uses the YOLOv3 model for accurate object detection.
 - **Gradio Interface**: Provides an easy-to-use web interface to display detection results.
